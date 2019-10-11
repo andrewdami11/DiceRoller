@@ -2,4 +2,8 @@
     <string name="app_name">DiceRoller</string>
     <string name="roll_label">Roll</string>
     <string name="clear_label">CLEAR</string>
+    <string name="clear_button">Clear Button</string>
+    <string name="roll_button">Roll button</string>
+    <string name="dice_one">Dice one</string>
+    <string name="dice_two">Dice two</string>
 </resources>
